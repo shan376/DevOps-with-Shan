@@ -1,0 +1,9 @@
+chmod 755 file.txt
+chmod +x file.sh
+chmod 777 file.txt
+chmod 600 file.txt
+
+chown user file.txt
+chown user:group file.txt
+
+ls -l

@@ -1,0 +1,5 @@
+file.txt ≠ File.txt
+
+sudo su      # root banne ke liye
+whoami       # current user check
+

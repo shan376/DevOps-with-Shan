@@ -1,0 +1,11 @@
+ip a
+
+ping google.com
+
+curl URL
+
+wget URL
+
+netstat -tulnp
+
+ss -lntp
